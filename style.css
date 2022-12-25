@@ -1,1 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.square {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    border: 5px solid blue;
+}
